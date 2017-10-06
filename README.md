@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/abhinavmall/BookTradingClub.svg?style=svg)](https://circleci.com/gh/abhinavmall/BookTradingClub)
 # Book Trading Club
 Freecodecamp Web Application Project 4
 
