@@ -1,4 +1,4 @@
-# BookTradingClub
+# Book Trading Club
 Freecodecamp Web Application Project 4
 
 ### User Stories
